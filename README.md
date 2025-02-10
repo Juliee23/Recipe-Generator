@@ -1,4 +1,4 @@
-# What-To-Chow
+# Dish Inspo
 A dish generator to help you decide what you can eat. Chow means to eat in South African lingo :)
 
 <h2>Current Challenge</h2>
@@ -16,7 +16,7 @@ A dish generator to help you decide what you can eat. Chow means to eat in South
 </ul>
 
 <h2>Screenshot</h2>
-<img src="https://.png">
+<img src="https://github.com/Juliee23/Recipe-Generator/blob/main/dish-inspo-ss.png?raw=true">
 
 <h2>Built with:</h2>
 <ul>
@@ -27,7 +27,7 @@ A dish generator to help you decide what you can eat. Chow means to eat in South
 
 <h2>Demo</h2>
 <ul>
-  <li><a href="https://.netlify.app">.netlify.app</a></li>
+  <li><a href="https://recipe-inspo-generator.netlify.app">.recipe-inspo-generator.netlify.app</a></li>
 </ul>
 
 <h2>Find Me</h2>
